@@ -1,1 +1,1 @@
-# Lending-Page-Symply
+# Lending-Page-Simple
