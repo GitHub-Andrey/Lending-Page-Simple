@@ -43,7 +43,7 @@ body {
 }
 
 .product p::before {
-    content: url(images/block-header_marker.png);
+    content: url('images/block-header_marker.png');
     margin-right: 10px;
 }
 
