@@ -43,7 +43,7 @@ body {
 }
 
 .product p::before {
-    content: url(/images/block-header_marker.png);
+    content: url(images/block-header_marker.png);
     margin-right: 10px;
 }
 
@@ -429,25 +429,25 @@ form button {
 }
 
 .social-container li:nth-child(1) {
-    background: url(/images/skype_icon.png);
+    background: url(images/skype_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
 
 .social-container li:nth-child(2) {
-    background: url(/images/icq_icon.png);
+    background: url(images/icq_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
 
 .social-container li:nth-child(3) {
-    background: url(/images/email_icon.png);
+    background: url(images/email_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
 
 .social-container li:nth-child(4) {
-    background: url(/images/phone_icon.png);
+    background: url(images/phone_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
@@ -475,7 +475,7 @@ form button {
     }
 
     .product p::before {
-        content: url(/images/m_block-header_marker-20.png);
+        content: url(images/m_block-header_marker-20.png);
     }
 }
 
@@ -498,7 +498,7 @@ form button {
     }
 
     .product p::before {
-        content: url(/images/m_block-header_marker_50.png);
+        content: url(images/m_block-header_marker_50.png);
     }
 
     .header-photo {
@@ -715,7 +715,7 @@ form button {
     }
 
     .product p::before {
-        content: url(/images/m_block-header_marker-80.png);
+        content: url(images/m_block-header_marker-80.png);
     }
 
     .pluses h1 {
