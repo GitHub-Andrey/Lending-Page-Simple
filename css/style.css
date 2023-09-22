@@ -428,25 +428,25 @@ form button {
     text-decoration: none;
 }
 
-.social-container li:nth-child(1) {
+.skype {
     background: url(../images/skype_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
 
-.social-container li:nth-child(2) {
+.icq {
     background: url(../images/icq_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
 
-.social-container li:nth-child(3) {
+.mail {
     background: url(../images/email_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
 
-.social-container li:nth-child(4) {
+.tel {
     background: url(../images/phone_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
