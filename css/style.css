@@ -475,7 +475,7 @@ form button {
     }
 
     .product p::before {
-        content: url(images/m_block-header_marker-20.png);
+        content: url(../images/m_block-header_marker-20.png);
     }
 }
 
@@ -498,7 +498,7 @@ form button {
     }
 
     .product p::before {
-        content: url(images/m_block-header_marker_50.png);
+        content: url(../images/m_block-header_marker_50.png);
     }
 
     .header-photo {
@@ -715,7 +715,7 @@ form button {
     }
 
     .product p::before {
-        content: url(images/m_block-header_marker-80.png);
+        content: url(../images/m_block-header_marker-80.png);
     }
 
     .pluses h1 {
