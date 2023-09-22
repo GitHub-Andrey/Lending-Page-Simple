@@ -429,19 +429,19 @@ form button {
 }
 
 .social-container li:nth-child(1) {
-    background: url(/images/skype_icon.png);
+    background: url(../images/skype_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
 
 .social-container li:nth-child(2) {
-    background: url(/images/icq_icon.png);
+    background: url(../images/icq_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
 
 .social-container li:nth-child(3) {
-    background: url(/images/email_icon.png);
+    background: url(../images/email_icon.png);
     background-repeat: no-repeat;
     background-position: 0 50%;
 }
